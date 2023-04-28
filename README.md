@@ -5,7 +5,7 @@ This is an online food menu service for Smokehouse restaurants. These days, when
 
 ```
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
-Check out [FRONTEND LIVE DEMO]([(https://github.com/jlflowers3/Hunger_Captain)]) here!!
+Check out [FRONTEND LIVE DEMO]([jlflowers3/Hunger_Captain]) here!!
 Check out [API LIVE DEMO]((https://github.com/jlflowers3/Hunger_Captain)) here!!
 
 ## Tech used
