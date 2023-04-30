@@ -11,7 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 from pathlib import Path
-#import django_heroku
+
 import cloudinary
 import cloudinary.uploader
 import cloudinary.api
@@ -93,7 +93,7 @@ WSGI_APPLICATION = 'config.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-# Heroku Database
+
 
 
 # # Local Database
@@ -104,8 +104,7 @@ DATABASES = {
     }
 }
 
-# Heroku PostgreSQL Database
-#django_heroku.settings(locals())
+
 
 
 # Password validation
